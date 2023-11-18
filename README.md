@@ -1,4 +1,4 @@
-[![Vedant's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@vedantpd#)
+[![Vedant's Holopin board](https://holopin.io/api/user/board?user=vedantpd)](https://www.holopin.io/@vedantpd#)
 # 💫 About Me:
 🔭 I’m currently working on ML-integrated applications.<br>👯 I’m looking to collaborate in open source.<br>🤝 I’m looking for help with JMP.<br>🌱 I’m currently learning Jetpack Compose and Hilt.<br>💬 Ask me about some cool tricks for debugging.<br>⚡ Fun fact  line 6: NullPointerException
 
