@@ -12,6 +12,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VedantpD&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantpD&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@vedantpd#)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VedantpD&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
