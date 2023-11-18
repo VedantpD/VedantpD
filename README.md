@@ -1,3 +1,4 @@
+[![Vedant's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@vedantpd#)
 # 💫 About Me:
 🔭 I’m currently working on ML-integrated applications.<br>👯 I’m looking to collaborate in open source.<br>🤝 I’m looking for help with JMP.<br>🌱 I’m currently learning Jetpack Compose and Hilt.<br>💬 Ask me about some cool tricks for debugging.<br>⚡ Fun fact  line 6: NullPointerException
 
@@ -12,7 +13,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VedantpD&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VedantpD&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@vedantpd#)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VedantpD&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
