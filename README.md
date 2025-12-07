@@ -1,6 +1,6 @@
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=vedantpD)](https://holopin.io/@vedantpD)
 # 💫 About Me:
-🔭 I’m currently working on ML-integrated applications.<br>👯 I’m looking to collaborate in open source.<br>🤝 I’m looking for help with JMP.<br>🌱 I’m currently learning Jetpack Compose and Hilt.<br>💬 Ask me about some cool tricks for debugging.<br>⚡ Fun fact  line 6: NullPointerException
+👯 I’m looking to collaborate in open source.<br>🤝 I’m looking for help with KMP.<br>💬 Ask me about some cool tricks for debugging.<br>⚡ Fun fact  line 6: NullPointerException
 
 
 ## 🌐 Socials:
